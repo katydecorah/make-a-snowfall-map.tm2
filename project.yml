@@ -1,0 +1,29 @@
+_prefs: 
+  mapid: katydecorah.77fcdfae
+  saveCenter: true
+_properties: 
+  bridge: 
+    "group-by": layer
+attribution: "<a href=\"http://www.nohrsc.noaa.gov/\" target=\"_blank\">Snowfall data from National Weather Service</a> | <a href='https://www.mapbox.com/about/maps/' target='_blank'>&copy; Mapbox &copy; OpenStreetMap</a> <a class='mapbox-improve-map' href='https://www.mapbox.com/map-feedback/' target='_blank'>Improve this map</a>"
+bounds: 
+  - -180
+  - -85.0511
+  - 180
+  - 85.0511
+center: 
+  - -74.4104
+  - 42.0493
+  - 7
+description: ''
+format: "png8:m=h"
+interactivity_layer: ''
+layers: null
+maxzoom: 11
+minzoom: 7
+name: Snowfall
+source: "mapbox:///mapbox.mapbox-streets-v5,katydecorah.7cd388a4,katydecorah.307322bc"
+styles: 
+  - style.mss
+  - roads.mss
+  - snowfall.mss
+template: ''
